@@ -5,4 +5,4 @@ An unofficial list of less-pop job-hunting platforms - remote first AND focused!
 
 
 
-Please create a PR and add to the list. I love collabs! ❤️‍🔥
+Please add comments directly to the file. Changes will be reviewed and added to the list. I love collabs! ❤️‍🔥
